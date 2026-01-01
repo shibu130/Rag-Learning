@@ -1,0 +1,25 @@
+
+
+
+
+What is Python?
+
+Python is a high-level, easy-to-read programming language used for:
+
+Web development 🌐
+
+Automation & scripting 🤖
+
+Data analysis & AI 🧠
+
+Game development 🎮
+
+It’s popular because it looks almost like English and lets you build things fast.
+
+
+
+
+
+
+
+

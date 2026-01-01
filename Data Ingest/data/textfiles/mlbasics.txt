@@ -1,0 +1,14 @@
+
+
+Machine Learning (ML) is a subset of artificial intelligence that focuses on building systems that can learn from data and improve their performance over time. Instead of relying on hard-coded rules, ML algorithms analyze patterns in historical data to make predictions, classifications, or decisions. This approach makes ML especially useful for problems where rules are complex or hard to define manually.
+
+There are three main types of machine learning: supervised learning, unsupervised learning, and reinforcement learning. In supervised learning, models are trained using labeled data, such as predicting house prices or detecting spam emails. Unsupervised learning works with unlabeled data to find hidden patterns, like customer segmentation. Reinforcement learning involves learning through trial and error, commonly used in robotics and game-playing AI.
+
+The machine learning process typically involves collecting data, cleaning and preparing it, choosing a suitable algorithm, training the model, and evaluating its performance. Good data quality is often more important than complex algorithms, as poor data can lead to inaccurate results regardless of the model used.
+
+
+
+
+
+
+
